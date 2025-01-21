@@ -1,0 +1,2 @@
+# Type Error in TypeScript Addition Function
+This example demonstrates a common type error in TypeScript that occurs when an incorrect parameter type is provided to a function. The function `add` is defined to take two number parameters, but the call to `add` in the code passes a string ("2") instead of a number. This results in a type error.  The solution shows how to properly type the function to handle strings or to provide a more robust error-handling mechanism.
